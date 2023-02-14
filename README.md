@@ -1,2 +1,2 @@
 # test02-py
-# 'Changes' counter: 1
+# 'Changes' counter: 2
