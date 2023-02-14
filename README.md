@@ -1,2 +1,2 @@
 # test02-py
-# 'Changes' counter: 2
+# CC ~ Change Counter
